@@ -40,3 +40,5 @@ Oque eu PRECISO Adicionar:
   Meio para salvar as Tarefas
  
   Interface 
+
+RECONHEÇO que tem um BUG caso Acredito que caso coloque nada (deixar o campo vazio) o Programa provavelmente quebra, tenho que arrumar isso
