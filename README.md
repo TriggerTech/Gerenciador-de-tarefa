@@ -35,8 +35,8 @@ dotnet run
 
 Use o menu no console para gerenciar suas tarefas.
 
-Oque eu PRECISO Adicionar
+Oque eu PRECISO Adicionar:
 
- Meio para salvar as Tarefas
+  Meio para salvar as Tarefas
  
- Interface 
+  Interface 
